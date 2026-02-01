@@ -101,3 +101,20 @@ body {
     padding:  24px;
     width: 50%
 }
+
+.code-title{
+    font-size: 20px;
+    margin-bottom: 16px;
+
+}
+
+.code-block{
+    background-color: #0a0c10;
+    color: #5eead4;
+    border-radius: 8px;
+    padding: 16px;
+    font-size: 14px;
+
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
