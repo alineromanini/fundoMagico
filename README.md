@@ -56,7 +56,7 @@ fundoMagico/
 │   └── js/
 │       └── index.js
 └── README.md
-
+```
 ---
 ## 🚀 Como executar localmente
 
